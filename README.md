@@ -1,7 +1,8 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=80&lines=Hey,+It's+Me+!+👋;MEHUL+MRIDUL+!;Welcome+to+My+GitHub+Profile!;Happy+Coding!+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=42&duration=3000&color=F39C12,ECF0F1,3498DB&center=true&vCenter=true&width=900&height=80&lines=🚀+Welcome+to+My+World+!;Hey,+I'm+Mehul+Mridul+👋;Building+Cool+Tech+Everyday!+🔥">
 </h1>
+
 
 
 <h1 align="center">
