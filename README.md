@@ -1,7 +1,8 @@
 <!-- Header -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hey,+It's+Me+!+👋;+MEHUL+MRIDUL+!;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=80&lines=Hey,+It's+Me+!+👋;MEHUL+MRIDUL+!;Welcome+to+My+GitHub+Profile!;Happy+Coding!+🚀" />
 </h1>
+
 
 <h1 align="center">
     I'm a <br/>
