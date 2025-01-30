@@ -5,27 +5,27 @@
 
 <h1 align="center">
     I'm a <br/>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full-Stack+Developer;Deep+Learning+Researcher;Data+Analyst;Tech+Enthusiast;Photographer+%26+Gamer;Always+Learning!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Machine+Learning+Intern;Aspiring+AI+Specialist;Data+Analyst;Tech+Enthusiast;Always+Learning!" />
 </h1>
 
 <!-- About Me -->
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  Passionate about Artificial Intelligence, Deep Learning, and Optimization Techniques. Always exploring new technologies!
+  Highly motivated and skilled individual with a strong foundation in AI/ML, seeking to leverage expertise in building machine learning models and developing efficient data pipelines to contribute to innovative and impactful projects.
 </p>
 
 <ul>
-  <li>🔭 Currently working on: <strong>Vision-Guard</strong> - A Deep Learning Model for Diabetic Retinopathy Detection</li>
+  <li>🔭 Currently working on: <strong>Heart Sound Classification for Diagnosing Cardiovascular Diseases</strong></li>
   <li>🌱 Learning: <strong>Swarm Computing, Quantum AI</strong></li>
-  <li>💡 Ask me about: <strong>Data Structures, Metaheuristic Optimization Techniques</strong></li>
-  <li>🎓 Senior at <strong>Your University Name Here</strong></li>
-  <li>📷 Passion for: <strong>Photography & Gaming</strong></li>
+  <li>💡 Ask me about: <strong>Machine Learning, Deep Learning, Data Analysis</strong></li>
+  <li>🎓 Currently a B.Tech student at <strong>SRM Institute of Science and Technology</strong></li>
+  <li>🏆 Achievements: <strong>53rd Rank in GeoAI NO2 Estimation Challenge, 2nd Place in Data Odyssey Datathon</strong></li>
 </ul>
 
 <!-- Skills -->
 <h2 align="center">⚙️ Skills & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,git,github,c,cpp,mysql,tensorflow,pytorch,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,matlab,bash,tensorflow,pytorch,linux,git,docker" />
 </p>
 
 <!-- GitHub Stats -->
