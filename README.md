@@ -25,8 +25,9 @@
 <!-- Skills -->
 <h2 align="center">⚙️ Skills & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,matlab,bash,tensorflow,pytorch,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,kaggle,html,css,javascript,react,mongodb,nodejs" />
 </p>
+
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
