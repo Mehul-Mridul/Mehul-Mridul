@@ -16,7 +16,7 @@
 
 <ul>
   <li>🔭 Currently working on: <strong>Heart Sound Classification for Diagnosing Cardiovascular Diseases</strong></li>
-  <li>🌱 Learning: <strong>Swarm Computing, Quantum AI</strong></li>
+  <li>🌱 Learning: <strong>Web Development (MERN Stack), Cloud Computing, Compiler Design, and Machine Learning</strong></li>
   <li>💡 Ask me about: <strong>Machine Learning, Deep Learning, Data Analysis</strong></li>
   <li>🎓 Currently a B.Tech student at <strong>SRM Institute of Science and Technology</strong></li>
   <li>🏆 Achievements: <strong>53rd Rank in GeoAI NO2 Estimation Challenge, 2nd Place in Data Odyssey Datathon</strong></li>
