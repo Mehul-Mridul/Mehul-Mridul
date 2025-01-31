@@ -35,8 +35,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
  
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=Mehul-Mridul" alt="Total Contributions" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehul-Mridul&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Mridul&layout=compact&theme=radical" />
 </p>
 
 <!-- Connect with Me -->
